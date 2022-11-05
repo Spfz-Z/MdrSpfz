@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MdrSpfz
+- 👋 Hi, I’m @Spfz-Z
 - 👀 I’m interested in ... Machine learning and Data Analysis
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ...
